@@ -1,5 +1,6 @@
 # SudokuPuzzleGenerator
 By Aliya Saldanha-Suri
+
 This program generates a fully solved 9x9 Sudoku puzzle! This was created using Java code learned in the AP Computer Science A course.
 
 Run Sudoku.java in a Java IDE and it will generate a Sudoku board.
